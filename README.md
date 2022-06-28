@@ -1,4 +1,4 @@
-## Hello there. I'm Guilheme Afonso Front-end Developer 👋🏼 👨🏻‍💻
+## Hello there! I'm Guilheme Afonso Front-end Developer 👋🏼 👨🏻‍💻
 
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning Typescript React and Angular.
