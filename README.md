@@ -31,7 +31,7 @@
   <h3>Graduate</h3>
   <ul>
     <li>Bachelor's degree: Business Administration from the Centro Universitário União Dinâmica Cataratas - UDC;</li>
-    <li>Bachelor's degree: analysis and systems development from the Cruzeiro do Sul;</li>
+    <li>Studying Bachelor's degree: Analysis and Systems Development from the Cruzeiro do Sul;</li>
   </ul>
 </div>
 
