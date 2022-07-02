@@ -37,7 +37,7 @@
 
 <div>
   <h3>Experience</h3>
-  I have experience in the planning and development of Web systems, with JavaScript projects. I also have experience with developing graphical interfaces with  Angular   8+, React and Vanilla JS. In addition, I have experience with creating and adapting software development processes, agile methodologies (Scrum, Xp, lean and others),   development standards, tests and software quality.
+  I have experience in the planning and development of Web systems, with JavaScript projects. I also have experience with developing graphical interfaces with  Angular   8+, React and Vanilla JS. In addition, I have experience with creating and adapting software development processes, agile methodologies (Scrum, Xp, lean and others),   development standards, automated tests and software quality.
 </div>
 
 ### Contact 
