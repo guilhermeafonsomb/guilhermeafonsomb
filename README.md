@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"></a>
   I'm currently working on <a href="https://ublink.com.br/" target="_blank">UBlink</a> as a front-end software developer.
 </div>
-<-->
+<!-->
 
 <div>
   <h3>Graduate</h3>
