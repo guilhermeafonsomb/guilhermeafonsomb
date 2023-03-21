@@ -4,6 +4,7 @@ ffff## Hello there! I'm Guilheme Afonso JavaScript FullStack Developer 👋🏼 
 - 🌱 I’m currently learning Typescript React and Angular.
 - 📫 How to reach me: guilhermeafonsomb@gmail.com
 
+ 
 <div align="left">
   <a href="https://github.com/guilhermeafonsomb">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeafonsomb&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -11,16 +12,15 @@ ffff## Hello there! I'm Guilheme Afonso JavaScript FullStack Developer 👋🏼 
 </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <h3>Techs</h3>
-   <img alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img alt="Node" src="https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node&logoColor=61DAFB" />
-   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />       
-</div>
+### Techs
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=angular)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+   
 
 <div>
   <h3>Graduate</h3>
