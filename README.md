@@ -1,4 +1,4 @@
-ffff## Hello there! I'm Guilheme Afonso JavaScript FullStack Developer 👋🏼 👨🏻‍💻
+## Hello there! I'm Guilheme Afonso JavaScript FullStack Developer 👋🏼 👨🏻‍💻
 
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning Typescript React and Angular.
