@@ -1,7 +1,7 @@
 ## Hello there! I'm Guilheme Afonso JavaScript FullStack Developer 👋🏼 👨🏻‍💻
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning Typescript React and Angular.
+- 🔭 I’m currently working as a FullStack Developer.
+- 🌱 I’m currently working Typescript React, Angular and Node.
 - 📫 How to reach me: guilhermeafonsomb@gmail.com
 
  
