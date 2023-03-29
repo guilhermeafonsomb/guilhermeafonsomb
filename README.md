@@ -36,4 +36,4 @@
 </div>
 
 ### Contact 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/guilherme-amb/)](https://www.linkedin.com/in/guilherme-amb/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/guilherme-amb/)](https://www.linkedin.com/in/guilherme-afonso-dev/)
