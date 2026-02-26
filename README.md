@@ -1,13 +1,13 @@
 ## Hello there! I'm Guilheme Afonso JavaScript FullStack Developer 👋🏼 👨🏻‍💻
 
 - 🔭 I’m currently working as a FullStack Developer.
-- 🌱 I’m currently working Typescript React, Angular and Node.
+- 🌱 I’m currently working Python, FatpApi, Flask, Typescript React and Node.
 - 📫 How to reach me: guilhermeafonsomb@gmail.com
 
 ### Techs
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![FatpApi](https://img.shields.io/badge/-fastapi-black?style=flat-square&logo=fastapi)
-![Flak](https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask)
+![Flask](https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![NestJs](https://img.shields.io/badge/-nestjs-black?style=flat-square&logo=nestjs)
