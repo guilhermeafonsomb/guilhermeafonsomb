@@ -4,21 +4,16 @@
 - 🌱 I’m currently working Typescript React, Angular and Node.
 - 📫 How to reach me: guilhermeafonsomb@gmail.com
 
- 
-<div align="left">
-  <a href="https://github.com/guilhermeafonsomb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeafonsomb&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeafonsomb&theme=gotham&layout=compact&langs_count=7"/>
-</a>
-</div>
-
 ### Techs
+![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
+![FatpApi](https://img.shields.io/badge/-fastapi-black?style=flat-square&logo=fastapi)
+![Flak](https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![NestJs](https://img.shields.io/badge/-nestjs-black?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-   
+
 
 <div>
   <h3>Graduate</h3>
@@ -30,7 +25,15 @@
 
 <div>
   <h3>Experience</h3>
-  I have experience in the planning and development of Web systems, with JavaScript projects. I also have experience with developing graphical interfaces with  Angular   8+, React and Vanilla JS. In addition, agile methodologies (Scrum, Xp, lean and others), automated tests and software quality.
+Fullstack Engineer with 5+ years of experience specializing in high-performance ecosystems like React/Next.js on the frontend and Python/NestJS on the backend. I have a proven track record of building robust, user-centric web applications and scalable distributed systems.
+
+Key Achievements:
+
+• Performance Optimization: Improved LCP by 30% through code-splitting and lazy loading.
+
+• Scalable Architecture: Led legacy system migrations to modern tech stacks and implemented robust APIs using Python (FastApi and Flask) and NestJS.
+
+• Quality & Data: Increased test coverage from 20% to 80% using Jest/RTL and managed modern database environments like MongoDB.
 </div>
 
 ### Contact 
