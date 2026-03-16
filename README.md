@@ -1,4 +1,4 @@
-## Hello there! I'm Guilheme Afonso JavaScript FullStack Developer 👋🏼 👨🏻‍💻
+## Hello there! I'm Guilheme Afonso FullStack Developer 👋🏼 👨🏻‍💻
 
 - 🔭 I’m currently working as a FullStack Developer.
 - 🌱 I’m currently working Python, FatpApi, Flask, Typescript React and Node.
