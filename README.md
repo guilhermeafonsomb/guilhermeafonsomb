@@ -25,15 +25,15 @@
 
 <div>
   <h3>Experience</h3>
-Fullstack Engineer with 5+ years of experience specializing in high-performance ecosystems like React/Next.js on the frontend and Python/NestJS on the backend. I have a proven track record of building robust, user-centric web applications and scalable distributed systems.
+I build things end-to-end  and I mean it.
 
-Key Achievements:
+With 4+ years across the full stack, I've stopped thinking in layers and started thinking in systems. I move between React interfaces, FastAPI/NestJS backends, and AWS infrastructure not because I have to, but because I understand how each piece affects the whole.
 
-• Performance Optimization: Improved LCP by 30% through code-splitting and lazy loading.
+My stack: Python (FastAPI, Flask, Pytest, Pydantic) · Node.js · NestJS · React · TypeScript · AWS · Terraform · Kubernetes · Docker · PostgreSQL · MongoDB · MySQL
 
-• Scalable Architecture: Led legacy system migrations to modern tech stacks and implemented robust APIs using Python (FastApi and Flask) and NestJS.
+ I take ownership. That means shipping features, yes, but also caring about latency, deployment pipelines, database design.
 
-• Quality & Data: Increased test coverage from 20% to 80% using Jest/RTL and managed modern database environments like MongoDB.
+ Currently exploring opportunities in distributed systems, cloud-native architecture, and high-performance backend, ideally with a team that builds with intention
 </div>
 
 ### Contact 
