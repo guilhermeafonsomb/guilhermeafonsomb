@@ -1,7 +1,7 @@
 ## Hello there! I'm Guilheme Afonso FullStack Developer 👋🏼 👨🏻‍💻
 
 - 🔭 I’m currently working as a FullStack Developer.
-- 🌱 I’m currently working Python, FatpApi, Flask, Typescript React and Node.
+- 🌱 I’m currently working Python, FastpApi, Flask, Typescript React and Node.
 - 📫 How to reach me: guilhermeafonsomb@gmail.com
 
 ### Techs
